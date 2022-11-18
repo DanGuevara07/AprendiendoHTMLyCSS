@@ -2,9 +2,9 @@
 
 Crea un nuevo documento HTML que cumpla los siguientes parámetros:
 
-Debe estar dividido en tres secciones (etiqueta)
+* Debe estar dividido en tres secciones (etiqueta)
 
-Condiciones para la primera sección
+* Condiciones para la primera sección
 
 Debe tener un título (h1) indicando "Aprendiendo a utilizar imágenes"
 
