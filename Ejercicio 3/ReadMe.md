@@ -5,7 +5,7 @@ Crea un nuevo documento HTML que cumpla los siguientes parámetros:
 * Debe estar dividido en tres secciones (etiqueta)
 
 * Condiciones para la primera sección
-⋅⋅⋅ Debe tener un título (h1) indicando "Aprendiendo a utilizar imágenes"
+  * Debe tener un título (h1) indicando "Aprendiendo a utilizar imágenes"
 
 Debes incluir una imagen de tu videojuego favorito
 
