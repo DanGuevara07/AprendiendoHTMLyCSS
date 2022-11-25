@@ -5,7 +5,6 @@ Crea un nuevo documento HTML con el título "Ganando precisión con los selector
 * Crea un nuevo fichero CSS e impórtalo en el documento HTML principal
 
 * Dentro del body crea una sección con los siguientes elementos:
-
  * Encabezado que contenga el texto "Lista de la compra"
   * Añade en el encabezado un atributo id con el valor "titulo"
   * Añade también un atributo class con el valor "encabezado"
