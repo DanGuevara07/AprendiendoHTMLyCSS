@@ -5,9 +5,9 @@ Crea un nuevo documento HTML con el título "Ganando precisión con los selector
 * Crea un nuevo fichero CSS e impórtalo en el documento HTML principal
 
 * Dentro del body crea una sección con los siguientes elementos:
- * Encabezado que contenga el texto "Lista de la compra"
-  * Añade en el encabezado un atributo id con el valor "titulo"
-  * Añade también un atributo class con el valor "encabezado"
+  * Encabezado que contenga el texto "Lista de la compra"
+    * Añade en el encabezado un atributo id con el valor "titulo"
+    * Añade también un atributo class con el valor "encabezado"
 
  * Una lista desordenada con cinco elementos que representen artículos de la compra
   * Cada uno de los elementos debe tener un id como sigue: primer elemento "elemento-1", segundo elemento "elemento-2", etc.
